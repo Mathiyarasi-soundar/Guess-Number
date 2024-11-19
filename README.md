@@ -1,6 +1,6 @@
 # Guess the Number Game
 
-A simple "Guess the Number" game built using HTML, CSS, and JavaScript. The game randomly selects a number between 1 and 10, and the player must guess the correct number. The game will give feedback on whether the guess is too high, too low, or correct.
+A simple "Guess the Number" game built using HTML, CSS, and JavaScript. The game randomly selects a number between 1 and 10, and the player must guess the correct number. The game will give feedback on whether the guess is wrong or right.
 
 ## Features
 
@@ -17,7 +17,7 @@ A simple "Guess the Number" game built using HTML, CSS, and JavaScript. The game
 
 ## Demo
 
-You can view a live demo of the game by [clicking here](#). 
+You can view a live demo of the game by [clicking here]( https://mathiyarasi-soundar.github.io/Guess-the-Number/). 
 
 ## How to Play
 
